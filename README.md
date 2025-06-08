@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafsanmubashir&label=Profile%20views&color=0e75b6&style=flat" alt="rafsanmubashir" /> </p>
 
-- 👨‍💻 All of my projects are available at [rafsanmubashir.com](rafsanmubashir.com)
+- 👨‍💻 All of my projects are available at **https://www.rafsanmubashir.com**
 
 - 📫 How to reach me **rafsanmubashir@gmail.com**
 
